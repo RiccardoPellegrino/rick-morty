@@ -1,5 +1,8 @@
 <template>
-    Sono in AppSearch
+    <div class="container p-4">
+        SearchBar
+    </div>
+
 </template>
 
 <script>
